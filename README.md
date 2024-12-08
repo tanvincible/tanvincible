@@ -5,3 +5,9 @@
 🌱 I’m currently learning OCaml.  
 🚴‍♀️ I like exploring new trails and staying active.  
 <!--🤝 I contributed to [Astropy](https://github.com/astropy/astropy).  -->
+
+<details>
+  <summary>Just for Fun</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
