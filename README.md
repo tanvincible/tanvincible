@@ -12,15 +12,13 @@ See my [CV](https://drive.google.com/file/d/1X0k_9NCodCuM3C_k_VqecOmHQqGicRVN/vi
   <summary> Just for Fun</summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 547 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,6 +88,6 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvincible/tanvincible/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 16:23:29 UTC
+ Last Updated on 10/12/2024 18:52:58 UTC
 <!--END_SECTION:waka-->
 </details>
