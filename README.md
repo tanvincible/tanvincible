@@ -6,8 +6,6 @@
 🚴‍♀️ I like exploring new trails and staying active.  
 <!--🤝 I contributed to [Astropy](https://github.com/astropy/astropy).  -->
 
-See my [CV](https://drive.google.com/file/d/1X0k_9NCodCuM3C_k_VqecOmHQqGicRVN/view?usp=sharing).
-
 <details>
   <summary> Just for Fun</summary>
   
