@@ -5,7 +5,6 @@
 🌱 I’m currently learning Rust 🦀.  
 🤝 Connect with me on [**Mastodon**](https://fosstodon.org/@tanvincible) or visit my [**website**](https://tanvincible.github.io).  
 🚴‍♀️ I like exploring new trails and staying active.  
-<!--🤝 I contributed to [Astropy](https://github.com/astropy/astropy).  -->
 
 <details>
   <summary> Just for Fun</summary>
@@ -16,7 +15,7 @@
 
   ### GitHub Contribution Streak
   
-  ![tanvincible's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvincible&theme=dark&hide_border=true)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=tanvincible)](https://git.io/streak-stats)
 
   ### Top Languages
 
