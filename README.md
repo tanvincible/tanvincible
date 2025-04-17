@@ -13,5 +13,3 @@
 > We're in **beta testing** — sign up below for early access and feedback.
 >
 > [Beta Test Signup](https://forms.gle/QP1Z3Hm1azgDo9vz6)
->
-> For anonymous testing, [email](mailto:tanvipm19@gmail.com) me for the direct link.
