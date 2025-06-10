@@ -6,6 +6,7 @@
 🤝 Connect with me on [**Mastodon**](https://fosstodon.org/@tanvincible) or visit my [**website**](https://tanvincible.github.io).  
 🚴‍♀️ I like exploring new trails and staying active.  
 
+<!--
 > [!NOTE]
 > SOMETHING IS COOKING!
 > 
@@ -13,3 +14,4 @@
 > We're in **beta testing** — sign up below for early access and feedback.
 >
 > [Beta Test Signup](https://forms.gle/QP1Z3Hm1azgDo9vz6)
+-->
