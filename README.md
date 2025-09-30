@@ -3,7 +3,6 @@
 ### Tanvi Pooranmal Meena (she/her)
 👩‍🎓 I'm majoring in Mechanical Engineering at [**IIT Kanpur**](https://www.iitk.ac.in/).  
 🌱 I’m currently learning Rust 🦀.  
-🤝 Connect with me on [**Mastodon**](https://fosstodon.org/@tanvincible) or visit my [**website**](https://tanvincible.github.io).  
 🚴‍♀️ I like exploring new trails and staying active.  
 
 <!--
